@@ -11,7 +11,7 @@
 
 |||
 |---|---|
-|[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnOrt31&theme=slateorange&show_icons=true)](https://github.com/JohnOrt31/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOrt31&langs_count=8&layout=compact&theme=slateorange)](https://github.com/JohnOrt31/github-readme-stats) |
+|[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnOrt31&theme=slateorange&show_icons=true)] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOrt31&langs_count=8&layout=compact&theme=slateorange)] |
 |||
 
 <h2 align="center">My Social Media</h2>

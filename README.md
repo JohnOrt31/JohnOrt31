@@ -3,8 +3,11 @@
 </p>
 <h1 align="center">I'm Jonathan Ortega🧑‍💻</h1>
 
-<h2 align="center">About me</h2>
-<h3>I'm a full-stack Web developer and Software Ene</h3>
+## About me
+- 🏗 I'm currently working in Holistic Enterprise Management (hem).
+- 💻 I'm a Full-Stack Developer.
+- 📚 I'm a student at the University of Guanajuato, currently studying the 10 semester of the Computer Systems Engineering degree.
+
 
 |||
 |---|---|
@@ -17,20 +20,22 @@
   <a href="https://github.com/JohnOrt31/">
 		<img src="https://img.icons8.com/doodle/50/000000/github--v1.png" alt="github" width="40px"/>
 	</a>
+	<a href="https://gitlab.com/JohnOrt">
+		<img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="40px"/>
+	</a>
 	<a href="https://www.linkedin.com/in/jonathanj-corona-ortega/">
 		<img src="https://img.icons8.com/doodle/50/000000/linkedin--v2.png" alt="linkedin" width="40px"/>
 	</a>
 	<a href="https://twitter.com/JohnnyOrtDev">
-		<img src="https://img.icons8.com/doodle/50/000000/twitter--v1.png" alt="twitter" width="40px"//>
+		<img src="https://img.icons8.com/doodle/50/000000/twitter--v1.png" alt="twitter" width="40px"/>
+	</a>
+	<a href="mailto:jonathan_coronaortega@outlook.com">
+		<img src="https://img.icons8.com/doodle/50/000000/email--v1.png" alt="email" width="40px"/>
+	</a>
+	<a href="https://www.youtube.com/channel/UCwgmWYFNvFSaTPmvYhiZOkw">
+		<img src="https://img.icons8.com/doodle/48/000000/youtube--v1.png" alt="youtube" width="40px"/>
 	</a>
 </p>
-
-
-
-
-
-
-
 
 
 <h4 align="center">May The Code Be With You </h4>

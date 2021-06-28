@@ -14,6 +14,28 @@
 |![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnOrt31&theme=slateorange&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOrt31&langs_count=8&layout=compact&theme=slateorange) |
 |||
 
+<h2 align="center">Some Projects</h2>
+<h3 align="left">
+	<ul>
+		<li>
+			<a href="https://www.imagendental.com/">
+			Imagen Dental
+			</a>
+		</li>
+		<li>
+			<a href="https://www.imagenaudio.com/test/">
+			Test - Imagen Audio
+			</a>
+		</li>
+		<li>
+			Landing pages
+		</li>
+		<li>
+			Web Apps
+		</li>
+	</ul>
+</h3>
+
 <h2 align="center">My Social Media</h2>
 
 <p align="center">

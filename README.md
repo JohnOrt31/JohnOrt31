@@ -6,7 +6,7 @@
 ## About me
 - 🏗 I'm currently working in Holistic Enterprise Management (hem).
 - 💻 I'm a Full-Stack Developer.
-- 📚 I'm a student at the University of Guanajuato, graduated in of the Computer Systems Engineering.
+- 📚 I'm a student at the University of Guanajuato, graduated in the Computer Systems Engineering.
 
 
 |||

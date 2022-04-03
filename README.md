@@ -4,8 +4,8 @@
 <h1 align="center">I'm Jonathan Ortega🧑‍💻</h1>
 
 ## About me
-- 🏗 I'm currently working in Holistic Enterprise Management (hem).
-- 💻 I'm a Full-Stack Developer.
+- 🏗 I'm currently working in TrueHome.
+- 💻 I'm a Front-End Developer.
 - 📚 I'm a student at the University of Guanajuato, graduated in the Computer Systems Engineering.
 
 

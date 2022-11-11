@@ -4,7 +4,7 @@
 <h1 align="center">I'm Jonathan Ortega🧑‍💻</h1>
 
 ## About me
-- 🏗 I'm currently working in TrueHome.
+- 🏗 I'm currently looking for a job.
 - 💻 I'm a Front-End Developer.
 - 📚 I'm Computer Systems Engineer, graduated from Universidad de Guanajuato.
 
